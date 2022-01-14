@@ -1,0 +1,61 @@
+[
+	{
+		"details": "creating a Discord bot!",
+		"assets": {
+			"largeImageName": "bot",
+			"largeImageText": "Discord"
+		},
+		"buttons": {
+			"primary": {
+				"label": "GitHub repo",
+				"url": "https://github.com/CPlusPatch/cpluspatch-bot"
+			},
+			"secondary": {
+				"label": "",
+				"url": ""
+			}
+		}
+	},
+	{
+		"details": "making my own website!",
+		"state": "cpluspatch.com",
+		"assets": {
+			"largeImageName": "vscode",
+			"largeImageText": "cpluspatch.com"
+		},
+		"buttons": {
+			"primary": {
+				"label": "Open",
+				"url": "https://cpluspatch.com"
+			},
+			"secondary": {
+				"label": "",
+				"url": ""
+			}
+		}
+	},
+	{
+		"details": "running my own Minecraft server!",
+		"assets": {
+			"largeImageName": "minecraft",
+			"largeImageText": "Minecraft"
+		},
+		"buttons": {
+			"primary": {
+				"label": "Discord",
+				"url": "https://discord.gg/TU5cCS6EpP"
+			},
+			"secondary": {
+				"label": "",
+				"url": ""
+			}
+		}
+	},
+	{
+		"details": "messing around with Discord",
+		"assets": {
+			"largeImageName": "discord",
+			"largeImageText": "Discord"
+		}
+	}
+]

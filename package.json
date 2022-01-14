@@ -1,0 +1,26 @@
+{
+  "name": "discord-status-slideshow",
+  "version": "1.0.0",
+  "description": "A script to add a slideshow to your Discord status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPlusPatch/discord-status-slideshow.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-rpc"
+  ],
+  "author": "CPlusPatch#9373",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CPlusPatch/discord-status-slideshow/issues"
+  },
+  "homepage": "https://github.com/CPlusPatch/discord-status-slideshow#readme",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  }
+}
